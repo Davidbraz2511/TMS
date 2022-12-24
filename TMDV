@@ -1,0 +1,21 @@
+if game.PlaceId == 7685887173 then --Game Test
+    loadstring(game:HttpGet("pasth:/ttps/ebin.com/raw/gLa4jmSU"))()
+elseif game.PlaceId == 6911111094 then --Florianopolis
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 6847503125 then --VNP
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 9417205094 then --Ilha Bela
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 6990893297 then --BNL
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 6380126670 then -- PM KAKAKGAMER
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 8177994461 then -- Balneário
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 9483667454 then -- TGI
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 7100412026 then -- PM KLEBER
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+elseif game.PlaceId == 9980463459 then -- TROCA NO COMPLEXO
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Davidbraz2511/TMS/main/TMD')))()
+end
